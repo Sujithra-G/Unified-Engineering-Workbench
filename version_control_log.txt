@@ -1,0 +1,3 @@
+2d61893 (HEAD -> master) Document provenance of packaged repository history
+ff971c0 Implement C++17 thermal, parsing, hardware and learning modules
+fdcf396 Create workbench project structure and prototype interface
