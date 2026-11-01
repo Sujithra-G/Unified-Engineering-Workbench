@@ -46,5 +46,3 @@ Also run `workbench backprop` and `workbench benchmark` to verify all four finit
 ## Packaging limitations
 No `Launch.exe` or self-contained Windows bundle is included. A Windows build, runtime dependency audit, one-click launcher, editor run configuration and clean-machine test remain necessary for full compliance. See the report for all known limitations.
 
-## Submission warning
-This ZIP is not a complete fulfilment of the assignment: no Windows `Launch.exe`, no connected UI/backend, no interactive 3D visualizer, no candidate-recorded demo, and no handwritten appendix are supplied. Do not represent simulated hardware as physical hardware. See `docs/submission_status.md`.
